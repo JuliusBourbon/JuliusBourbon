@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JuliusBourbon
+##👋 Hi, I’m @JuliusBourbon
 - 👀 I’m interested in web development and 3D modeling.
-- 🌱 I’m currently learning Laravel for Full Stack web development and Blender for creating 3D models
+- 🌱 I'm currently studying to become a Fullstack web developer
 - 📫 How to reach me naherrrrr@gmail.com or X @juliusbourbonn
 - 😄 Pronouns: identified as Null/Pointer
 - ⚡ Fun fact: Im obsessed with Elden Ring Lore
