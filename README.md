@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @JuliusBourbon
-- 👀 I’m interested in web development and 3D modeling.
+- 👀 I’m interested in web and mobile development.
 - 🌱 I'm currently studying to become a Fullstack web developer
 - 📫 How to reach me naherrrrr@gmail.com or X @juliusbourbonn
 - 😄 Pronouns: identified as try/catch
