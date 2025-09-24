@@ -2,7 +2,6 @@
 - 👀 I’m interested in web and mobile development.
 - 🌱 I'm currently studying to become a Fullstack web developer
 - 📫 How to reach me naherrrrr@gmail.com or X @juliusbourbonn
-- 😄 Pronouns: identified as try/catch
 - ⚡ Fun fact: Im obsessed with Elden Ring Lore
 
 
